@@ -43,7 +43,7 @@
 		<dc:language>en-GB</dc:language>
 		<dc:source>https://www.gutenberg.org/ebooks/53430</dc:source>
 		<dc:source>https://archive.org/details/principiaethican00mooruoft</dc:source>
-		<meta property="se:production-notes">PRODUCTION_NOTES</meta>
+		<meta property="se:production-notes">Two errors were found in the scans: in Chapter 4, §71 "Is the existence of that kind of good thing?" has been changed to "Is the existence of that kind of thing good?" as in the 1993 Cambridge University Press edition; in Chapter 5, §92: "is not included is what we mean by calling them possible alternatives" has been changed to "is not included in what we mean by calling them possible alternatives".</meta>
 		<meta property="se:word-count">WORD_COUNT</meta>
 		<meta property="se:reading-ease.flesch">READING_EASE</meta>
 		<meta property="se:url.encyclopedia.wikipedia">https://en.wikipedia.org/wiki/Principia_Ethica</meta>
