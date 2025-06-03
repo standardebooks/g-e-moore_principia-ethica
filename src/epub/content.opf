@@ -32,6 +32,9 @@
 		<meta property="authority" refines="#subject-1">LCSH</meta>
 		<meta property="term" refines="#subject-1">sh85045096</meta>
 		<meta property="se:subject">Philosophy</meta>
+		<meta id="collection-1" property="belongs-to-collection">Modern Library’s 100 Best Nonfiction</meta>
+		<meta property="collection-type" refines="#collection-1">set</meta>
+		<meta property="group-position" refines="#collection-1">32</meta>
 		<dc:description id="description">An analysis of the concept of good that diagnoses the history of ethics as being marred by the “naturalistic fallacy” while discussing intrinsic goods and evils.</dc:description>
 		<meta id="long-description" property="se:long-description" refines="#description">
 			&lt;p&gt;&lt;i&gt;Principia Ethica&lt;/i&gt; is a foundational text in the analytic tradition of ethical theory and &lt;a href="https://standardebooks.org/ebooks/g-e-moore"&gt;G. E. Moore’s&lt;/a&gt; most influential book. In it, he defines the subject of ethics as the general enquiry into the question “what is good?” and famously contends that the predicate “good” is indefinable. Moore claims that whatever definition is offered of the predicate, “it may be always asked, with significance, of the complex so defined, whether it is itself good,” an argument that would later come to be known as the “open question” argument. To fail to accept its conclusion and instead to identify “good” with some other quality or list of qualities is, according to Moore, to commit the error that he names the “naturalistic fallacy.”&lt;/p&gt;
