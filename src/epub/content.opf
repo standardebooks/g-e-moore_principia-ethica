@@ -47,7 +47,7 @@
 		<dc:language>en-GB</dc:language>
 		<dc:source>https://www.gutenberg.org/ebooks/53430</dc:source>
 		<dc:source>https://archive.org/details/principiaethican00mooruoft</dc:source>
-		<meta property="se:word-count">92566</meta>
+		<meta property="se:word-count">92431</meta>
 		<meta property="se:reading-ease.flesch">47.96</meta>
 		<meta property="se:url.encyclopedia.wikipedia">https://en.wikipedia.org/wiki/Principia_Ethica</meta>
 		<meta property="se:url.vcs.github">https://github.com/standardebooks/g-e-moore_principia-ethica</meta>
