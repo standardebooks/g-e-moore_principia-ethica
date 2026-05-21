@@ -12,7 +12,7 @@ footer{
 }
 /* End footers */
 
-span[epub|type="ordinal"]{
+span[epub|type="z3998:ordinal"]{
 	font-weight: bold;
 }
 
