@@ -65,13 +65,13 @@
 		<meta property="role" refines="#author" scheme="marc:relators">wpr</meta>
 		<dc:contributor id="artist">Wassily Kandinsky</dc:contributor>
 		<meta property="file-as" refines="#artist">Kandinsky, Wassily</meta>
-		<meta property="schema:alternateName" refines="#author">Wassily Wassilyevich Kandinsky</meta>
-		<meta property="alternate-script" refines="#author">Василий Васильевич Кандинский</meta>
+		<meta property="schema:alternateName" refines="#artist">Wassily Wassilyevich Kandinsky</meta>
+		<meta property="alternate-script" refines="#artist">Василий Васильевич Кандинский</meta>
 		<link href="https://en.wikipedia.org/wiki/Wassily_Kandinsky" refines="#artist" rel="schema:sameAs"/>
 		<link href="https://id.loc.gov/authorities/names/n79059310.html" refines="#artist" rel="schema:sameAs"/>
 		<meta property="role" refines="#artist" scheme="marc:relators">art</meta>
 		<dc:contributor id="transcriber-1">Josep Cols Canals</dc:contributor>
-		<meta property="file-as" refines="#transcriber-1">Canals, Joseph Cols</meta>
+		<meta property="file-as" refines="#transcriber-1">Canals, Josep Cols</meta>
 		<meta property="role" refines="#transcriber-1" scheme="marc:relators">trc</meta>
 		<dc:contributor id="transcriber-2">Ramon Pajares Box</dc:contributor>
 		<meta property="file-as" refines="#transcriber-2">Box, Ramon Pajares</meta>
@@ -82,6 +82,7 @@
 		<meta property="role" refines="#transcriber-3" scheme="marc:relators">trc</meta>
 		<dc:contributor id="producer-1">Erin Endrei</dc:contributor>
 		<meta property="file-as" refines="#producer-1">Endrei, Erin</meta>
+		<link href="https://github.com/erinendrei" refines="#producer-1" rel="schema:url"/>
 		<meta property="role" refines="#producer-1" scheme="marc:relators">bkp</meta>
 		<meta property="role" refines="#producer-1" scheme="marc:relators">blw</meta>
 		<meta property="role" refines="#producer-1" scheme="marc:relators">cov</meta>
